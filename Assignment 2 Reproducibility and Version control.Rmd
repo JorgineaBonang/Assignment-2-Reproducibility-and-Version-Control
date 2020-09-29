@@ -1,0 +1,29 @@
+---
+title: "Assignment 2 Reproducibility and Version control"
+author: "Jorginea Bonang"
+date: "28/09/2020"
+link to github: C:\Users\Owner\Desktop\ENVS 4826 Assignments\Scripts\Assignment-2-Reproducibility-and-Version-control
+link to scientific article: https://www.nature.com/articles/s41598-020-72238-6#Sec2
+output: html_document
+---
+
+## Introduction 
+
+Seabirds can act as biological pumps - transferring nutrients, trace elements and environmental contaminants between ecosystems. Which can cause multiple cascade effects on biological communities, positive and negative. Therefore, to be able to better understand the effects that seabirds have on their surrounding environment a study was performed on the island of Stora Karlsö, which is the largest seabird colony in the Baltic Sea.  
+
+## Methods 
+
+Water and sediment samples were taken to locate suitable areas for sediment samples. Biological samples and sediment cores were taken from the soft sediment bottom habitat and rocky shore habitat.Additionally, bird feces and chironomid larva samples were freeze dried, ground, homogenized and weighed in tin capsules. Quantification of total nutrient emissions was completed on the colony.  
+
+## Results
+
+The macroaglgae near the seabird colony had large numbers of Chironomidae larva and the deep-water soft bottom sediments had no macrofauna. The diffusive fluxes of both NH4+ and PO43− were higher at S1 compared to the other three stations (S2‒S4)suggesting a stronger release of nutrients in proximity of the colony compared to the more offshore stations. The seabirds' P emissions were similar to the largest waste water treatment plant and N emissions were in the same magnitude as multiple mid size treatment plants in the Baltic Sea. 
+
+## Conclusion 
+
+The seabirds on the island of Stora Karlsö are increasing the availability of nutrients that support local biological production in near-shore marine habitats. The study provide evidence of a strong link between the seabirds and the surround benthic and terrestrial ecosystem compartments. Therefore, the study supported the conclusion that seabird interaction with the ecosystems should not be overlooked and should be included while constructing marine and terrestrial management and conservation plans.
+
+## Figure
+
+![Figure 1. Conceptual diagram that shows the main processes under investigation in the paper.](C:\Users\Owner\Desktop\ENVS 4826 Assignments\Scripts\Assignment-2-Reproducibility-and-Version-control\images\Scientific article image.PNG)
+

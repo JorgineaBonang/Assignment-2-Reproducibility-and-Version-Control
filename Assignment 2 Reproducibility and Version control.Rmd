@@ -1,8 +1,10 @@
 ---
-title: "Assignment 2: Reproducibility and Version control"
+title: 'Assignment 2: Reproducibility and Version control'
 author: "Jorginea Bonang"
 date: "28/09/2020"
-output: html_document
+output:
+  html_document: default
+  pdf_document: default
 ---
 Link to github: https://github.com/JorgineaBonang/Assignment-2-Reproducibility-and-Version-control
 

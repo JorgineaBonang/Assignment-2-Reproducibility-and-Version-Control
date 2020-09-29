@@ -1,12 +1,12 @@
 ---
-title: "Assignment 2 Reproducibility and Version control"
+title: "Assignment 2: Reproducibility and Version control"
 author: "Jorginea Bonang"
 date: "28/09/2020"
 output: html_document
 ---
-link to github: https://github.com/JorgineaBonang/Assignment-2-Reproducibility-and-Version-control
+Link to github: https://github.com/JorgineaBonang/Assignment-2-Reproducibility-and-Version-control
 
-link to scientific article: https://www.nature.com/articles/s41598-020-72238-6#Sec2
+Link to scientific article: https://www.nature.com/articles/s41598-020-72238-6#Sec2
 
 ## Introduction 
 
@@ -14,15 +14,15 @@ Seabirds can act as biological pumps - transferring nutrients, trace elements an
 
 ## Methods 
 
-Sediment stations were located within the bottom substrate around the colony on the sedimentary rocks/gravelly shores (Stations V1-V2) and soft sediment (Stations S1-S4). Isotopic analysis was completed on guano samples. Macrofauna were sampled on the soft bottom sediments for S1-S4 and for the hard-bottom sediments for V1 and V2. Sediments at S1-S4 were sampled by a Kajak corer twice, for determination of organic geochemistry parameters: org C, N, δ13C, δ15N signatures and sediment porosity. Bird feces and chironomid larvae samples were collected, freeze dried, ground, homogenized and weighted in tin capsules to be analyzed by Elementar Vario EL Cube elemental analyzer connected to the same IRMS system. Porewater samples were thawed and analyzed on a segmented flow autoanalyzer system and the diffusive fluxes of NH4+ and PO43− were calculated using the Fick’s First Law of diffusion. Lastly, the nitrogen and phosphorus emissions were calculated for the colony.
+Sediment stations were located within the bottom substrate around the colony on the sedimentary rocks/gravelly shores (Stations V1-V2) and soft sediment (Stations S1-S4). Isotopic analysis was completed on guano samples. Macrofauna were sampled on the soft bottom sediments for S1-S4 and for the hard-bottom sediments for V1 and V2. Sediments at S1-S4 were sampled by a Kajak corer twice for the determination of organic geochemistry parameters: org C, N, δ13C, δ15N signatures and sediment porosity. Bird feces and chironomid larvae samples were collected, freeze dried, ground, homogenized and weighted in tin capsules and were analyzed by Elementar Vario EL Cube elemental analyzer connected to the same IRMS system. Porewater samples were thawed and analyzed on a segmented flow autoanalyzer system and the diffusive fluxes of NH4+ and PO43− were calculated using the Fick’s First Law of diffusion. Lastly, the nitrogen and phosphorus emissions were calculated for the colony.
 
 ## Results
 
-The macroalgae near the seabird colony had large numbers of Chironomidae larva which were highly enriched in δ15N signal. The δ13C signal increased values at increasing distance from the colony. The deep-water soft bottom sediment did not host any living macrofauna. There was no effect of distance to the bird colony on the δ15N signal and the δ13C signal decreased values at increasing distance from the colony. Porewater NH4+ and PO43− concentrations increased with depth in the sediment and were highly elevated at the sediment station closest to the seabird colony. Bottom water at all stations were low in oxygen but not anoxic, had similar salinity, and temperature. The seabirds' P emissions were like the largest wastewater treatment plant and N emissions were in the same magnitude as multiple mid-size treatment plants in the Baltic Sea.  
+The macroalgae near the seabird colony had large numbers of Chironomidae larva which were highly enriched in δ15N signal. The δ13C signal increased values at increasing distance from the colony. The deep-water soft bottom sediment did not host any living macrofauna. There was no effect of distance to the bird colony on the δ15N signal and the δ13C signal decreased values at increasing distance from the colony. Porewater NH4+ and PO43− concentrations increased with depth in the sediment and were highly elevated at the sediment station closest to the seabird colony. Bottom water at all stations were low in oxygen but not anoxic, had similar salinity, and temperature. The seabirds' P emissions were similar the largest wastewater treatment plant and N emissions were in the same magnitude as multiple mid-size treatment plants in the Baltic Sea.  
 
 ## Conclusion 
 
-The N and P release from the bird colony on Stora Karlsö is a driver of regional nutrient cycling. The release of waste can have contrasting effects on the rocky shores and soft-sediment bottom habitats. On the rock shores, the release leads to high production of chironomid larvae which enhances the food supply to House martins that feed on adult chironomids (Figure 1). In the deep-water bottom sediments, macrofaunal (chironomid larvae) production was not supported but rather acted as sources of dissolved N and P. Therefore, the studies hypothesis was not completed correct, as the seabird colony did have nutrients that was traceable in near-shore rocky habitat and deep-water soft bottom habitats, but chironomid larvae did not grow in both types of habitats.
+The N and P release from the bird colony on Stora Karlsö is a driver of regional nutrient cycling. The release of waste can have contrasting effects on the rocky shores and soft-sediment bottom habitats. On the rock shores, the release lead to high production of chironomid larvae which enhances the food supply to House martins that feed on adult chironomids (Figure 1). In the deep-water bottom sediments, macrofaunal (chironomid larvae) production was not supported but rather acted as sources of dissolved N and P. Therefore, the studies hypothesis was not correct, as the seabird colony did have nutrients that was traceable in near-shore rocky habitat and deep-water soft bottom habitats, but chironomid larvae did not grow in both types of habitats.
 
 ## Figure
 
